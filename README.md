@@ -9,5 +9,5 @@ Os painéis são de grande utilidade, pois gerenciam aspectos da liga que não s
  
  
 # Licença
----
+
 MIT
